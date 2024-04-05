@@ -1,19 +1,52 @@
-Copyright 2022 London App Brewery LTD (www.appbrewery.com)
+# ArtisanalEtherium NFT Marketplace
 
-The code in this tutorial project is licended under the Apache License, Version 2.0 (the "License");
-you may not use this project except in compliance with the License.
-You may obtain a copy of the License at
+Welcome to ArtisanalEtherium, your go-to platform for trading unique digital assets as Non-Fungible Tokens (NFTs). This marketplace is built with Motoko, React, TypeScript, HTML, and CSS, providing a seamless experience for both creators and collectors of digital art.
 
-    http://www.apache.org/licenses/LICENSE-2.0
+## Features
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
+- **Seamless Integration**: ArtisanalEtherium seamlessly integrates Motoko backend with React frontend, offering a smooth user experience.
+- **NFT Creation and Minting**: Artists can easily create and mint their digital creations into unique NFTs directly on the platform.
+- **Marketplace Listings**: Collectors can browse through a wide range of NFTs listed on the marketplace, each with its own unique characteristics.
+- **Secure Transactions**: Built-in security measures ensure safe and secure transactions using blockchain technology.
+- **Responsive Design**: The platform is designed with responsiveness in mind, ensuring optimal viewing experience across devices.
 
-Here is the TL;DR version of the above licence:
-https://tldrlegal.com/license/apache-license-2.0-(apache-2.0)
+## Getting Started
+
+To get started with ArtisanalEtherium, follow these steps:
+
+1. **Clone the Repository**: Clone this repository to your local machine.
+
+    ```bash
+    git clone https://github.com/vaibhav8312/ArtisanalEtherium.git
+    ```
+
+2. **Install Dependencies**: Navigate to the project directory and install dependencies.
+
+    ```bash
+    cd ArtisanalEtherium
+    npm install
+    ```
+
+3. **Start the Development Server**: Run the following command to start the development server.
+
+    ```bash
+    npm start
+    ```
+
+4. **Explore the Platform**: Open your browser and navigate to `http://localhost:3000` to explore the ArtisanalEtherium platform.
+
+## Contributing
+
+We welcome contributions from the community to enhance ArtisanalEtherium. If you'd like to contribute, please follow these guidelines:
+
+1. Fork the repository.
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`).
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
+4. Push to the branch (`git push origin feature/AmazingFeature`).
+5. Open a pull request.
+
+
+
 
 # To Install and Run the Project
 
